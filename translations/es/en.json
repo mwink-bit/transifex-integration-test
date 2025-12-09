@@ -1,4 +1,37 @@
 {
-  "greeting": "¡Hola, mundo!",
-  "farewell": "Adiós, ¿todos?"
+  "app": {
+    "title": "Demostración de Integración de Transifex",
+    "description": "Una aplicación de ejemplo para demostrar la integración de Transifex con GitHub."
+  },
+  "menu": {
+    "file": "Archivo",
+    "edit": "Editar",
+    "view": "Ver",
+    "help": "Ayuda"
+  },
+  "actions": {
+    "add": "Agregar",
+    "edit": "Editar",
+    "delete": "Eliminar",
+    "save": "Guardar",
+    "cancel": "Cancelar"
+  },
+  "messages": {
+    "welcome": "¡Bienvenido a la demostración de integración de Transifex!",
+    "loading": "Cargando datos, por favor espere...",
+    "error": {
+      "network": "Error de red, por favor intente nuevamente más tarde.",
+      "404": "El recurso solicitado no fue encontrado.",
+      "500": "Se produjo un error interno del servidor."
+    },
+    "validation": {
+      "required_field": "Este campo es obligatorio.",
+      "email_invalid": "Por favor, introduce una dirección de correo electrónico válida."
+    }
+  },
+  "footer": {
+    "contact": "Contáctenos",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos del Servicio"
+  }
 }
