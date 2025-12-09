@@ -1,37 +1,42 @@
 {
   "app": {
     "title": "Transifex Integration Demo",
-    "description": "An example application to demonstrate Transifex integration with GitHub."
+    "description": "An example application to demonstrate Transifex integration with GitHub.",
+    "slogan": "Unlock the potential of seamless localization."
   },
   "menu": {
     "file": "File",
     "edit": "Edit",
     "view": "View",
-    "help": "Help"
+    "help": "Help",
+    "tools": "Tools that shape the future."
   },
   "actions": {
     "add": "Add",
     "edit": "Edit",
     "delete": "Delete",
     "save": "Save",
-    "cancel": "Cancel"
+    "cancel": "Cancel",
+    "optimize": "Optimize for unparalleled results."
   },
   "messages": {
     "welcome": "Welcome to the Transifex Integration Demo!",
     "loading": "Loading data, please wait...",
+    "success": "Congratulations! Your operation was successfully executed beyond expectations.",
     "error": {
-      "network": "Network error, please try again later.",
-      "404": "The requested resource was not found.",
-      "500": "An internal server error occurred."
+      "network": "Network hiccup, dancing with the tides of connectivity. Please try again later.",
+      "404": "The requested resource remains elusive, shrouded in the mists of cyberspace.",
+      "500": "An internal server error disrupted the harmony of our digital symphony."
     },
     "validation": {
-      "required_field": "This field is required.",
-      "email_invalid": "Please enter a valid email address."
+      "required_field": "This field is an essence non-negotiable.",
+      "email_invalid": "Venture forth only with a legitimate email address of impeccable syntax."
     }
   },
   "footer": {
     "contact": "Contact Us",
     "privacy": "Privacy Policy",
-    "terms": "Terms of Service"
+    "terms": "Terms of Service",
+    "disclaimer": "All interpretations, analysis, and projections are purely speculative."
   }
 }
