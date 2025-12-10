@@ -1,12 +1,11 @@
 {
   "app": {
     "title": "Transifex Integration Demo",
-    "description": "An example application to demonstrate Transifex integration with GitHub."
+    "description": "An example app showing integration with GitHub."
   },
   "menu": {
     "file": "File",
     "edit": "Edit",
-    "view": "View",
     "help": "Help"
   },
   "actions": {
@@ -14,24 +13,18 @@
     "edit": "Edit",
     "delete": "Delete",
     "save": "Save",
-    "cancel": "Cancel"
   },
   "messages": {
-    "welcome": "Welcome to the Transifex Integration Demo!",
-    "loading": "Loading data, please wait...",
+    "welcome": "Welcome to the Transifex Integration Demo?",
+    "loading": "Loading data, please hold your horses...",
     "error": {
-      "network": "Network error, please try again later.",
-      "404": "The requested resource was not found.",
-      "500": "An internal server error occurred."
+      "network": "Oops! We're having a hiccup; try again in a jiffy.",
+      "404": "Looks like we hit a roadblock finding the resource.",
+      "500": "Something went pear-shaped on our end."
     },
     "validation": {
-      "required_field": "This field is required.",
-      "email_invalid": "Please enter a valid email address."
+      "required_field": "You can't leave this field high and dry.",
+      "email_invalid": "That doesn't look correct."
     }
-  },
-  "footer": {
-    "contact": "Contact Us",
-    "privacy": "Privacy Policy",
-    "terms": "Terms of Service"
   }
 }
