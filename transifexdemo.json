@@ -1,0 +1,37 @@
+{
+  "app": {
+    "title": "Transifex Integration Demo",
+    "description": "An example application to demonstrate Transifex integration with GitHub."
+  },
+  "menu": {
+    "file": "File",
+    "edit": "Edit",
+    "view": "View",
+    "help": "Help"
+  },
+  "actions": {
+    "add": "Add",
+    "edit": "Edit",
+    "delete": "Delete",
+    "save": "Save",
+    "cancel": "Cancel"
+  },
+  "messages": {
+    "welcome": "Welcome to the Transifex Integration Demo!",
+    "loading": "Loading data, please wait...",
+    "error": {
+      "network": "Network error, please try again later.",
+      "404": "The requested resource was not found.",
+      "500": "An internal server error occurred."
+    },
+    "validation": {
+      "required_field": "This field is required.",
+      "email_invalid": "Please enter a valid email address."
+    }
+  },
+  "footer": {
+    "contact": "Contact Us",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  }
+}
